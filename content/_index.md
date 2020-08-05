@@ -3,7 +3,7 @@ title: "Make the Web Fun Again"
 
 ---
 
-# Hugo
+# Hugo-Site by Shantanu Dash
 
 ## Make the Web Fun Again
 
